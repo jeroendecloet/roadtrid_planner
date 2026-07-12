@@ -1,0 +1,36 @@
+{
+    "main": {
+        "coordinates": [
+            64.9841821,
+            -18.1059013
+        ],
+        "country": "japan"
+    },
+    "markers": {
+        "food": {},
+        "hotel": {
+            "Breeze Bay Lake Resort": {
+                "coordinates": [
+                    35.504249675367745,
+                    138.77234127993376
+                ],
+                "region": "Kawaguchiko"
+            },
+            "Hotel Buena Vista": {
+                "coordinates": [
+                    36.227920601707694,
+                    137.9680583707959
+                ],
+                "region": "Matsumoto"
+            },
+            "Ryogoku View Hotel": {
+                "coordinates": [
+                    35.6954897,
+                    139.7920747
+                ],
+                "region": "Tokyo"
+            }
+        },
+        "landmark": {}
+    }
+}

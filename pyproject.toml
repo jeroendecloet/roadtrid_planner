@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "roadtrip-planner"
+version = "0.1.0"
+description = "Create annotated maps for planning road trips."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "folium>=0.20.0",
+    "geopy>=2.4.1",
+    "jupyterlab>=4.6.1",
+    "matplotlib>=3.11.0",
+    "numpy>=2.5.1",
+    "pandas>=3.0.3",
+]
+
+[tool.setuptools]
+packages = ["src"]

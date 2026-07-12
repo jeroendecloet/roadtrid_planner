@@ -1,0 +1,4 @@
+[pages]
+title = "Roadtrip Planner"
+output_directory = "_site"
+region_directories = ["Japan"]

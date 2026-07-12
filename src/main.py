@@ -5,7 +5,7 @@ from geopy.geocoders import Nominatim
 import folium
 import numpy as np
 
-import dictionary
+import src.dictionary as dictionary
 
 
 class MapItems:
@@ -115,7 +115,26 @@ class MapMaker:
 
     def create_map(self) -> None:
         self.base_map = folium.Map(location=self.mi['main']['coordinates'], control_scale=True, zoom_start=7, tiles=None)
-        folium.TileLayer('OpenStreetMap', control=False).add_to(self.base_map)
+        folium.TileLayer("OpenStreetMap", control=False).add_to(self.base_map)
+
+    def _add_marker(self, marker_type: str, name: str, coordinates: list[float], **kwargs: Any) -> None:
+        """Add a marker to the in-memory JSON structure."""
+        markers = self.mi.d.setdefault("markers", {})
+        marker_group = markers.setdefault(marker_type, {})
+        marker_group[name] = {"coordinates": coordinates, **kwargs}
+        self.mi.to_json()
+
+    def add_restaurant(self, name: str, coordinates: list[float], **kwargs: Any) -> None:
+        """Add a restaurant marker and any optional fields."""
+        self._add_marker("food", name, coordinates, **kwargs)
+
+    def add_hotel(self, name: str, coordinates: list[float], **kwargs: Any) -> None:
+        """Add a hotel marker and any optional fields."""
+        self._add_marker("hotel", name, coordinates, **kwargs)
+
+    def add_landmark(self, name: str, coordinates: list[float], **kwargs: Any) -> None:
+        """Add a landmark marker and any optional fields."""
+        self._add_marker("landmark", name, coordinates, **kwargs)
 
     def _add_coordinates(self, keys: Union[list, str]) -> None:
         """ Adds coordinates to locations that do not have coordinates yet. """
@@ -240,9 +259,11 @@ class MapMaker:
             for loc, info_dict in locations.items():
                 if "coordinates" in info_dict.keys():
                     coordinates.append(info_dict["coordinates"])
-        sw = np.array(coordinates).min(axis=0).tolist()
-        ne = np.array(coordinates).max(axis=0).tolist()
-        self.base_map.fit_bounds([sw, ne])
+
+        if coordinates:
+            sw = np.array(coordinates).min(axis=0).tolist()
+            ne = np.array(coordinates).max(axis=0).tolist()
+            self.base_map.fit_bounds([sw, ne])
 
     def save_map(self, filename: str) -> None:
         self.base_map.save(filename)

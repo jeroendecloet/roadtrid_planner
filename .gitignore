@@ -23,4 +23,15 @@ Thumbs.db
 # Keep specific files
 !.gitignore
 !README.md
-!environment.yaml
+!pyproject.toml
+
+# GitHub Pages inputs
+!/.github/
+!/.github/workflows/
+!/.github/workflows/deploy-pages.yml
+!/scripts/
+!/scripts/build_pages.py
+!/pages.toml
+!/Japan/
+/Japan/*
+!/Japan/*_map_items.json

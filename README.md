@@ -10,7 +10,12 @@ This repository mainly relies on these two packages:
 - [Folium](https://github.com/python-visualization/folium): Python interface for creating a Leaflet.js map.
 - [Geopy](https://geopy.readthedocs.io/en/stable/): Python client for gathering coordinates of locations.
 
-To install the Python environment, see the `environment.yaml` file for Conda installations.
+The project requires Python 3.11. To create a virtual environment and install it:
+
+```shell
+python -m venv .venv
+python -m pip install .
+```
 
 ---
 
@@ -124,3 +129,20 @@ mm.save_map("IcelandMap.html")
 ```
 
 Alternative, there is a Jupyter notebook provided with each example to make the process faster and easier.
+
+---
+
+## Publishing maps with GitHub Pages
+
+The static site generator reads `pages.toml`. Add a directory to `region_directories` when its `*_map_items.json` file should be published. Marker entries with a `region` field automatically become focus buttons on that map page.
+
+Build the site locally with:
+
+```shell
+python scripts/build_pages.py
+python -m http.server 8000 --directory _site
+```
+
+Then open `http://localhost:8000`.
+
+The `Deploy roadtrip maps to Pages` workflow rebuilds and deploys the site after each push to `main`. In the GitHub repository, open **Settings → Pages** and set **Source** to **GitHub Actions** before the first deployment.
