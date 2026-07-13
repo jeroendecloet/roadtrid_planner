@@ -115,7 +115,7 @@ class MapMaker:
 
     def create_map(self) -> None:
         self.base_map = folium.Map(location=self.mi['main']['coordinates'], control_scale=True, zoom_start=7, tiles=None)
-        folium.TileLayer("OpenStreetMap", control=False).add_to(self.base_map)
+        folium.TileLayer("CartoDB Voyager", control=False).add_to(self.base_map)
 
     def _add_marker(self, marker_type: str, name: str, coordinates: list[float], **kwargs: Any) -> None:
         """Add a marker to the in-memory JSON structure."""
