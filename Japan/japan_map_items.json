@@ -74,54 +74,134 @@
             }
         },
         "landmark": {
+            "Akasaka Station": {
+                "coordinates": [
+                    35.672224,
+                    139.736388
+                ],
+                "region": "Tokyo",
+                "icon": "train",
+                "info": "Harry Potter station"
+            },
+            "Akihabara Station": {
+                "coordinates": [
+                    35.6986182,
+                    139.7738947
+                ],
+                "region": "Tokyo",
+                "icon": "train"
+            },
             "Canoe Rental": {
                 "coordinates": [
                     35.523855883324316,
                     138.7507294006231
                 ],
-                "region": "Kawaguchiko"
+                "region": "Kawaguchiko",
+                "icon": "ship"
+            },
+            "Chidorigafuchi Park": {
+                "coordinates": [
+                    35.6856984,
+                    139.7449236
+                ],
+                "region": "Tokyo",
+                "icon": "tree"
             },
             "Cooking Sun Machiya Studio": {
                 "coordinates": [
                     34.99930907068982,
                     135.7543491417896
                 ],
-                "region": "Kyoto"
+                "region": "Kyoto",
+                "icon": "utensils"
             },
             "Cycling tour": {
                 "coordinates": [
                     34.986335679576044,
                     135.75420470452693
                 ],
-                "region": "Kyoto"
+                "region": "Kyoto",
+                "icon": "bicycle"
+            },
+            "Kokyo kasteel": {
+                "coordinates": [
+                    35.6838467,
+                    139.7506859
+                ],
+                "region": "Tokyo",
+                "icon": "landmark"
+            },
+            "TShibuya Sky": {
+                "coordinates": [
+                    35.65868058982238,
+                    139.7019526112603
+                ],
+                "region": "Tokyo",
+                "icon": "binoculars"
             },
             "Tea ceremony": {
                 "coordinates": [
                     36.571166800296915,
                     136.6684598747007
                 ],
-                "region": "Kanazawa"
+                "region": "Kanazawa",
+                "icon": "mug-hot"
+            },
+            "Tempel Senso-ji": {
+                "coordinates": [
+                    35.71479766109852,
+                    139.79667531211007
+                ],
+                "region": "Tokyo",
+                "icon": "torii-gate"
+            },
+            "Tokyo Skytree": {
+                "coordinates": [
+                    35.710057800808926,
+                    139.8109416362251
+                ],
+                "region": "Tokyo",
+                "icon": "binoculars"
+            },
+            "Tokyo Tower": {
+                "coordinates": [
+                    35.6584491,
+                    139.745536
+                ],
+                "region": "Tokyo",
+                "icon": "binoculars"
             },
             "Tokyo tour": {
                 "coordinates": [
                     35.70676986563891,
                     139.7741862514689
                 ],
-                "region": "Tokyo"
+                "region": "Tokyo",
+                "icon": "route"
+            },
+            "Ueno Park": {
+                "coordinates": [
+                    35.7152915,
+                    139.7738278
+                ],
+                "region": "Tokyo",
+                "icon": "tree"
             },
             "Uradome Coast Island Boat Pier": {
                 "coordinates": [
                     35.57956792774841,
                     134.29783515543795
                 ],
-                "region": "Tottori"
+                "region": "Tottori",
+                "icon": "ship"
             },
             "Watanabe Museum Tottori": {
                 "coordinates": [
                     35.5208816,
                     134.2273108
                 ],
-                "region": "Tottori"
+                "region": "Tottori",
+                "icon": "landmark"
             }
         }
     }
