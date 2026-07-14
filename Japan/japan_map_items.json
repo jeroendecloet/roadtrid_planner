@@ -1,8 +1,8 @@
 {
     "main": {
         "coordinates": [
-            64.9841821,
-            -18.1059013
+            36.14173293651191,
+            137.25275265386506
         ],
         "country": "japan"
     },
@@ -18,8 +18,7 @@
             },
             "Daiwa Roynet Hotel": {
                 "coordinates": [
-                    34.6659712,
-                    133.9199884
+                    34.38760487509676, 132.45536084780787
                 ],
                 "region": "Hiroshima"
             },
@@ -74,134 +73,431 @@
             }
         },
         "landmark": {
+            "Abeno Harukas": {
+                "coordinates": [
+                    34.6457685,
+                    135.5140068
+                ],
+                "region": "Osaka"
+            },
             "Akasaka Station": {
                 "coordinates": [
                     35.672224,
                     139.736388
                 ],
-                "region": "Tokyo",
                 "icon": "train",
-                "info": "Harry Potter station"
+                "info": "Harry Potter station",
+                "region": "Tokyo"
             },
             "Akihabara Station": {
                 "coordinates": [
                     35.6986182,
                     139.7738947
                 ],
-                "region": "Tokyo",
-                "icon": "train"
+                "icon": "train",
+                "region": "Tokyo"
+            },
+            "Amerika-mura": {
+                "coordinates": [
+                    34.6720061,
+                    135.4988014
+                ],
+                "region": "Osaka"
+            },
+            "Ao-shima Park": {
+                "coordinates": [
+                    35.50181011882378,
+                    134.1547958554361
+                ],
+                "region": "Totteri",
+                "website": "http://www.monkeypark.jp/"
+            },
+            "Arashiyama Bamboo Forest": {
+                "coordinates": [
+                    34.98402613388423,
+                    135.70957199775316
+                ],
+                "region": "Kyoto"
+            },
+            "Arashiyama Monkey Park": {
+                "coordinates": [
+                    34.98402613388423,
+                    135.70957199775316
+                ],
+                "region": "Kyoto",
+                "website": "http://www.monkeypark.jp/"
             },
             "Canoe Rental": {
                 "coordinates": [
                     35.523855883324316,
                     138.7507294006231
                 ],
-                "region": "Kawaguchiko",
-                "icon": "ship"
+                "icon": "ship",
+                "region": "Kawaguchiko"
             },
             "Chidorigafuchi Park": {
                 "coordinates": [
                     35.6856984,
                     139.7449236
                 ],
-                "region": "Tokyo",
-                "icon": "tree"
+                "icon": "tree",
+                "region": "Tokyo"
+            },
+            "Chureito Pagoda": {
+                "coordinates": [
+                    35.501321877952314,
+                    138.8011924758793
+                ],
+                "icon": "torii-gate",
+                "region": "Kawaguchiko"
             },
             "Cooking Sun Machiya Studio": {
                 "coordinates": [
                     34.99930907068982,
                     135.7543491417896
                 ],
-                "region": "Kyoto",
-                "icon": "utensils"
+                "icon": "utensils",
+                "region": "Kyoto"
             },
             "Cycling tour": {
                 "coordinates": [
                     34.986335679576044,
                     135.75420470452693
                 ],
+                "icon": "bicycle",
+                "region": "Kyoto"
+            },
+            "Daio Wasabi Farm": {
+                "coordinates": [
+                    36.33925985440564,
+                    137.90851867126435
+                ],
+                "icon": "bowl-rice",
+                "region": "Matsumoto"
+            },
+            "Den Den Town": {
+                "coordinates": [
+                    34.6592152,
+                    135.5058245
+                ],
+                "region": "Osaka"
+            },
+            "Dotonbori": {
+                "coordinates": [
+                    34.6690306,
+                    135.5015715
+                ],
+                "region": "Osaka"
+            },
+            "Fushimi Inari-taisha": {
+                "coordinates": [
+                    34.9675192,
+                    135.7797101
+                ],
+                "region": "Kyoto"
+            },
+            "Genbaku Dome": {
+                "coordinates": [
+                    34.3954661,
+                    132.4535245
+                ],
+                "region": "Hiroshima"
+            },
+            "Gion regio": {
+                "coordinates": [
+                    35.00380714965892,
+                    135.77661090337355
+                ],
                 "region": "Kyoto",
-                "icon": "bicycle"
+                "website": "http://www.monkeypark.jp/"
+            },
+            "Gyokusen-inmura garden": {
+                "coordinates": [
+                    36.565276789491115,
+                    136.6573333842959
+                ],
+                "icon": "tree",
+                "region": "Kanazawa"
+            },
+            "Hiroshima Castle": {
+                "coordinates": [
+                    34.4021463,
+                    132.4595399
+                ],
+                "region": "Hiroshima"
+            },
+            "Kasteel Kanazawa": {
+                "coordinates": [
+                    36.5660211919647,
+                    136.65959766895253
+                ],
+                "region": "Kanazawa"
+            },
+            "Kasteel Matsumoto": {
+                "coordinates": [
+                    36.238800081233805,
+                    137.96889958428835
+                ],
+                "icon": "torii-gate",
+                "region": "Matsumoto"
+            },
+            "Keizerlijke Villa Katsura": {
+                "coordinates": [
+                    34.98402613388423,
+                    135.70957199775316
+                ],
+                "region": "Kyoto"
+            },
+            "Kenroku-en": {
+                "coordinates": [
+                    36.56229150508851,
+                    136.66276951498293
+                ],
+                "region": "Kanazawa"
+            },
+            "Kinkaku-ji": {
+                "coordinates": [
+                    35.0395293,
+                    135.7295373
+                ],
+                "region": "Kyoto"
+            },
+            "Kokodera tuinen": {
+                "coordinates": [
+                    34.99219525159507,
+                    135.68371029775338
+                ],
+                "region": "Kyoto"
             },
             "Kokyo kasteel": {
                 "coordinates": [
                     35.6838467,
                     139.7506859
                 ],
-                "region": "Tokyo",
-                "icon": "landmark"
+                "icon": "landmark",
+                "region": "Tokyo"
+            },
+            "Kuromon Ichiba Market": {
+                "coordinates": [
+                    34.6664433,
+                    135.5070407
+                ],
+                "region": "Osaka"
+            },
+            "Magome - Tsumago wandelroute": {
+                "coordinates": [
+                    35.52604063470978,
+                    137.566704710155
+                ],
+                "icon": "route",
+                "region": "Matsumoto"
+            },
+            "Mitaki-dera": {
+                "coordinates": [
+                    34.4199296,
+                    132.4384108
+                ],
+                "region": "Hiroshima"
+            },
+            "Miyajima eiland": {
+                "coordinates": [
+                    34.28131546290746,
+                    132.31700960053874
+                ],
+                "region": "Hiroshima"
+            },
+            "Mt. Fuji Panoramic Ropeway": {
+                "coordinates": [
+                    35.50402333857487,
+                    138.77207876892862
+                ],
+                "icon": "binoculars",
+                "region": "Kawaguchiko"
+            },
+            "Nagamachi Samurai District": {
+                "coordinates": [
+                    36.563751104332106,
+                    136.65102686638448
+                ],
+                "region": "Kanazawa"
+            },
+            "Nakano-shima": {
+                "coordinates": [
+                    34.68799151784639, 135.49786241694042
+                ],
+                "region": "Osaka"
+            },
+            "Nakazaki-cho": {
+                "coordinates": [
+                    34.706825276180304, 135.5051186623528
+                ],
+                "region": "Osaka"
+            },
+            "Namba Parks": {
+                "coordinates": [
+                    34.6616791,
+                    135.5020843
+                ],
+                "region": "Osaka"
+            },
+            "Omi-cho markt": {
+                "coordinates": [
+                    36.57173347231677,
+                    136.6558972842961
+                ],
+                "region": "Kanazawa"
+            },
+            "Orizuru Tower": {
+                "coordinates": [
+                    34.3956703,
+                    132.4546856
+                ],
+                "region": "Hiroshima"
+            },
+            "Osaka Castle": {
+                "coordinates": [
+                    34.6873735,
+                    135.5258555
+                ],
+                "region": "Osaka"
+            },
+            "Peace Memorial Park": {
+                "coordinates": [
+                    34.392722086150386,
+                    132.45219046890452
+                ],
+                "region": "Hiroshima"
+            },
+            "Saiho-ji Kokodera tuinen": {
+                "coordinates": [
+                    34.99224798789409,
+                    135.68372102658924
+                ],
+                "icon": "tree",
+                "region": "Kyoto",
+                "website": "https://saihoji-kokedera.com/"
+            },
+            "Shakkei-en tuin": {
+                "coordinates": [
+                    34.40047452057496,
+                    132.46773142657636
+                ],
+                "icon": "tree",
+                "region": "Hiroshima"
+            },
+            "Shi-Tenno-ji": {
+                "coordinates": [
+                    34.5612115,
+                    135.6069417
+                ],
+                "region": "Osaka"
+            },
+            "Shinsekai": {
+                "coordinates": [
+                    34.6520901,
+                    135.5061908
+                ],
+                "region": "Osaka"
             },
             "TShibuya Sky": {
                 "coordinates": [
                     35.65868058982238,
                     139.7019526112603
                 ],
-                "region": "Tokyo",
-                "icon": "binoculars"
+                "icon": "binoculars",
+                "region": "Tokyo"
+            },
+            "Takayama Sky Park": {
+                "coordinates": [
+                    36.14626566349949,
+                    137.23967522661496
+                ],
+                "region": "Takayama"
             },
             "Tea ceremony": {
                 "coordinates": [
                     36.571166800296915,
                     136.6684598747007
                 ],
-                "region": "Kanazawa",
-                "icon": "mug-hot"
+                "icon": "mug-hot",
+                "region": "Kanazawa"
             },
             "Tempel Senso-ji": {
                 "coordinates": [
                     35.71479766109852,
                     139.79667531211007
                 ],
-                "region": "Tokyo",
-                "icon": "torii-gate"
+                "icon": "torii-gate",
+                "region": "Tokyo"
             },
             "Tokyo Skytree": {
                 "coordinates": [
                     35.710057800808926,
                     139.8109416362251
                 ],
-                "region": "Tokyo",
-                "icon": "binoculars"
+                "icon": "binoculars",
+                "region": "Tokyo"
             },
             "Tokyo Tower": {
                 "coordinates": [
                     35.6584491,
                     139.745536
                 ],
-                "region": "Tokyo",
-                "icon": "binoculars"
+                "icon": "binoculars",
+                "region": "Tokyo"
             },
             "Tokyo tour": {
                 "coordinates": [
                     35.70676986563891,
                     139.7741862514689
                 ],
-                "region": "Tokyo",
-                "icon": "route"
+                "icon": "route",
+                "region": "Tokyo"
             },
             "Ueno Park": {
                 "coordinates": [
                     35.7152915,
                     139.7738278
                 ],
-                "region": "Tokyo",
-                "icon": "tree"
+                "icon": "tree",
+                "region": "Tokyo"
+            },
+            "Umeda Sky Building": {
+                "coordinates": [
+                    34.7052927,
+                    135.4905349
+                ],
+                "region": "Osaka"
             },
             "Uradome Coast Island Boat Pier": {
                 "coordinates": [
                     35.57956792774841,
                     134.29783515543795
                 ],
-                "region": "Tottori",
-                "icon": "ship"
+                "icon": "ship",
+                "region": "Tottori"
             },
             "Watanabe Museum Tottori": {
                 "coordinates": [
                     35.5208816,
                     134.2273108
                 ],
-                "region": "Tottori",
-                "icon": "landmark"
+                "icon": "landmark",
+                "region": "Tottori"
+            },
+            "Zandduinen": {
+                "coordinates": [
+                    35.54177491219427,
+                    134.22887966099043
+                ],
+                "region": "Totteri"
+            },
+            "Zandmuseum": {
+                "coordinates": [
+                    35.539668923629506,
+                    134.23837902660145
+                ],
+                "region": "Totteri"
             }
         }
     }
