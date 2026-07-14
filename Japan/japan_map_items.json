@@ -18,7 +18,8 @@
             },
             "Daiwa Roynet Hotel": {
                 "coordinates": [
-                    34.38760487509676, 132.45536084780787
+                    34.38760487509676,
+                    132.45536084780787
                 ],
                 "region": "Hiroshima"
             },
@@ -229,7 +230,14 @@
                 "icon": "tree",
                 "region": "Kanazawa"
             },
-            "Hiroshima Castle": {
+            "Kasteel Himeji": {
+                "coordinates": [
+                    34.83947539014147, 134.69393688425774
+                ],
+                "icon": "landmark",
+                "region": "Himeji"
+            },
+            "Kasteel Hiroshima": {
                 "coordinates": [
                     34.4021463,
                     132.4595399
@@ -343,14 +351,16 @@
             },
             "Nakano-shima": {
                 "coordinates": [
-                    34.68799151784639, 135.49786241694042
+                    34.68799151784639,
+                    135.49786241694042
                 ],
                 "icon": "tree",
                 "region": "Osaka"
             },
             "Nakazaki-cho": {
                 "coordinates": [
-                    34.706825276180304, 135.5051186623528
+                    34.706825276180304,
+                    135.5051186623528
                 ],
                 "icon": "city",
                 "region": "Osaka"
