@@ -78,6 +78,7 @@
                     34.6457685,
                     135.5140068
                 ],
+                "icon": "building",
                 "region": "Osaka"
             },
             "Akasaka Station": {
@@ -102,6 +103,7 @@
                     34.6720061,
                     135.4988014
                 ],
+                "icon": "building",
                 "region": "Osaka"
             },
             "Ao-shima Park": {
@@ -109,6 +111,7 @@
                     35.50181011882378,
                     134.1547958554361
                 ],
+                "icon": "paw",
                 "region": "Totteri",
                 "website": "http://www.monkeypark.jp/"
             },
@@ -117,6 +120,7 @@
                     34.98402613388423,
                     135.70957199775316
                 ],
+                "icon": "tree",
                 "region": "Kyoto"
             },
             "Arashiyama Monkey Park": {
@@ -124,6 +128,7 @@
                     34.98402613388423,
                     135.70957199775316
                 ],
+                "icon": "paw",
                 "region": "Kyoto",
                 "website": "http://www.monkeypark.jp/"
             },
@@ -180,6 +185,7 @@
                     34.6592152,
                     135.5058245
                 ],
+                "icon": "microchip",
                 "region": "Osaka"
             },
             "Dotonbori": {
@@ -187,6 +193,7 @@
                     34.6690306,
                     135.5015715
                 ],
+                "icon": "utensils",
                 "region": "Osaka"
             },
             "Fushimi Inari-taisha": {
@@ -194,6 +201,7 @@
                     34.9675192,
                     135.7797101
                 ],
+                "icon": "torii-gate",
                 "region": "Kyoto"
             },
             "Genbaku Dome": {
@@ -201,6 +209,7 @@
                     34.3954661,
                     132.4535245
                 ],
+                "icon": "monument",
                 "region": "Hiroshima"
             },
             "Gion regio": {
@@ -208,6 +217,7 @@
                     35.00380714965892,
                     135.77661090337355
                 ],
+                "icon": "masks-theater",
                 "region": "Kyoto",
                 "website": "http://www.monkeypark.jp/"
             },
@@ -224,6 +234,7 @@
                     34.4021463,
                     132.4595399
                 ],
+                "icon": "landmark",
                 "region": "Hiroshima"
             },
             "Kasteel Kanazawa": {
@@ -231,6 +242,7 @@
                     36.5660211919647,
                     136.65959766895253
                 ],
+                "icon": "landmark",
                 "region": "Kanazawa"
             },
             "Kasteel Matsumoto": {
@@ -246,6 +258,7 @@
                     34.98402613388423,
                     135.70957199775316
                 ],
+                "icon": "landmark",
                 "region": "Kyoto"
             },
             "Kenroku-en": {
@@ -253,6 +266,7 @@
                     36.56229150508851,
                     136.66276951498293
                 ],
+                "icon": "tree",
                 "region": "Kanazawa"
             },
             "Kinkaku-ji": {
@@ -260,6 +274,7 @@
                     35.0395293,
                     135.7295373
                 ],
+                "icon": "torii-gate",
                 "region": "Kyoto"
             },
             "Kokodera tuinen": {
@@ -267,6 +282,7 @@
                     34.99219525159507,
                     135.68371029775338
                 ],
+                "icon": "tree",
                 "region": "Kyoto"
             },
             "Kokyo kasteel": {
@@ -282,6 +298,7 @@
                     34.6664433,
                     135.5070407
                 ],
+                "icon": "store",
                 "region": "Osaka"
             },
             "Magome - Tsumago wandelroute": {
@@ -297,6 +314,7 @@
                     34.4199296,
                     132.4384108
                 ],
+                "icon": "torii-gate",
                 "region": "Hiroshima"
             },
             "Miyajima eiland": {
@@ -304,6 +322,7 @@
                     34.28131546290746,
                     132.31700960053874
                 ],
+                "icon": "tree",
                 "region": "Hiroshima"
             },
             "Mt. Fuji Panoramic Ropeway": {
@@ -319,18 +338,21 @@
                     36.563751104332106,
                     136.65102686638448
                 ],
+                "icon": "user-ninja",
                 "region": "Kanazawa"
             },
             "Nakano-shima": {
                 "coordinates": [
                     34.68799151784639, 135.49786241694042
                 ],
+                "icon": "tree",
                 "region": "Osaka"
             },
             "Nakazaki-cho": {
                 "coordinates": [
                     34.706825276180304, 135.5051186623528
                 ],
+                "icon": "city",
                 "region": "Osaka"
             },
             "Namba Parks": {
@@ -338,6 +360,7 @@
                     34.6616791,
                     135.5020843
                 ],
+                "icon": "bag-shopping",
                 "region": "Osaka"
             },
             "Omi-cho markt": {
@@ -345,6 +368,7 @@
                     36.57173347231677,
                     136.6558972842961
                 ],
+                "icon": "store",
                 "region": "Kanazawa"
             },
             "Orizuru Tower": {
@@ -352,6 +376,7 @@
                     34.3956703,
                     132.4546856
                 ],
+                "icon": "binoculars",
                 "region": "Hiroshima"
             },
             "Osaka Castle": {
@@ -359,6 +384,7 @@
                     34.6873735,
                     135.5258555
                 ],
+                "icon": "landmark",
                 "region": "Osaka"
             },
             "Peace Memorial Park": {
@@ -366,6 +392,7 @@
                     34.392722086150386,
                     132.45219046890452
                 ],
+                "icon": "dove",
                 "region": "Hiroshima"
             },
             "Saiho-ji Kokodera tuinen": {
@@ -390,6 +417,7 @@
                     34.5612115,
                     135.6069417
                 ],
+                "icon": "torii-gate",
                 "region": "Osaka"
             },
             "Shinsekai": {
@@ -397,6 +425,7 @@
                     34.6520901,
                     135.5061908
                 ],
+                "icon": "city",
                 "region": "Osaka"
             },
             "TShibuya Sky": {
@@ -412,6 +441,7 @@
                     36.14626566349949,
                     137.23967522661496
                 ],
+                "icon": "binoculars",
                 "region": "Takayama"
             },
             "Tea ceremony": {
@@ -467,6 +497,7 @@
                     34.7052927,
                     135.4905349
                 ],
+                "icon": "binoculars",
                 "region": "Osaka"
             },
             "Uradome Coast Island Boat Pier": {
@@ -490,6 +521,7 @@
                     35.54177491219427,
                     134.22887966099043
                 ],
+                "icon": "mountain-sun",
                 "region": "Totteri"
             },
             "Zandmuseum": {
@@ -497,6 +529,7 @@
                     35.539668923629506,
                     134.23837902660145
                 ],
+                "icon": "building-columns",
                 "region": "Totteri"
             }
         }
