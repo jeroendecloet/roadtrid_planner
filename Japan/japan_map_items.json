@@ -277,7 +277,9 @@
                 ],
                 "icon": "landmark",
                 "info": "Kasteel Himeji is Japans grootste en best bewaarde feodale kasteel, herkenbaar aan zijn elegante witte buitenkant.",
-                "region": "Himeji"
+                "region": "Himeji",
+                "website": "https://www.himejicastle.jp/en/",
+                "price": "2600 p.p."
             },
             "Kasteel Hiroshima": {
                 "coordinates": [
@@ -349,7 +351,8 @@
                 ],
                 "icon": "landmark",
                 "info": "Het Keizerlijk Paleis staat op de plek van het voormalige kasteel Edo en wordt omringd door tuinen, muren en grachten.",
-                "region": "Tokyo"
+                "region": "Tokyo",
+                "website": "https://sankan.kunaicho.go.jp/english/index.html"
             },
             "Kuromon Ichiba Market": {
                 "coordinates": [
@@ -505,14 +508,16 @@
                 "info": "Shinsekai is een kleurrijke retrowijk rond de Tsutenkaku-toren, bekend om lichtreclames en kushikatsu-restaurants.",
                 "region": "Osaka"
             },
-            "TShibuya Sky": {
+            "Shibuya Sky": {
                 "coordinates": [
                     35.65868058982238,
                     139.7019526112603
                 ],
                 "icon": "binoculars",
                 "info": "Shibuya Sky is een openluchtobservatiedek met spectaculair uitzicht over het beroemde kruispunt en de skyline van Tokio.",
-                "region": "Tokyo"
+                "region": "Tokyo",
+                "website": "https://www.shibuya-scramble-square.com/sky/",
+                "price": "2700-3400 p.p."
             },
             "Takayama Sky Park": {
                 "coordinates": [
@@ -557,7 +562,9 @@
                 ],
                 "icon": "binoculars",
                 "info": "Tokyo Skytree is een 634 meter hoge zendmast met twee observatieniveaus en een indrukwekkend uitzicht over de stad.",
-                "region": "Tokyo"
+                "region": "Tokyo",
+                "website": "https://www.tokyo-skytree.jp/en/",
+                "price": "1100-4400 p.p."
             },
             "Tokyo Tower": {
                 "coordinates": [
@@ -566,7 +573,9 @@
                 ],
                 "icon": "binoculars",
                 "info": "Tokyo Tower is een iconische rood-witte communicatietoren met observatiedekken en een klassiek uitzicht over Tokio.",
-                "region": "Tokyo"
+                "region": "Tokyo",
+                "website": "https://en.tokyotower.co.jp/",
+                "price": "3300 p.p."
             },
             "Tokyo tour": {
                 "coordinates": [
