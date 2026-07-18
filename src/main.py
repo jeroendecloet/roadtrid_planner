@@ -59,13 +59,13 @@ class MapItems:
             else:
                 filename = self.filename
 
-        with open(filename, 'w') as json_file:
+        with open(filename, 'w', encoding='utf-8') as json_file:
             json.dump(self.d, json_file, indent=4, sort_keys=True)
 
     @classmethod
     def from_json(cls, filename: str) -> Any:
         """Loads a json file"""
-        with open(filename, 'r') as json_file:
+        with open(filename, 'r', encoding='utf-8') as json_file:
             data = json.load(json_file)
         return cls(d=data, filename=filename)
 
