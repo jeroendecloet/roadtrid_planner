@@ -192,7 +192,9 @@
                 ],
                 "icon": "bowl-rice",
                 "info": "Daio Wasabi Farm is een van Japans grootste wasabiboerderijen, met wandelpaden langs velden die door helder bronwater worden gevoed.",
-                "region": "Matsumoto"
+                "region": "Matsumoto",
+                "price": "free",
+                "website": "https://www.daiowasabi.co.jp/"
             },
             "Den Den Town": {
                 "coordinates": [
