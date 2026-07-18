@@ -90,7 +90,7 @@
                     139.736388
                 ],
                 "icon": "train",
-                "info": "Station Akasaka ligt in een levendige wijk van Tokio en biedt gemakkelijke toegang tot winkels en cafés met een Harry Potter-thema.",
+                "info": "Station Akasaka ligt in een levendige wijk van Tokio en biedt gemakkelijke toegang tot winkels en caf\u00c3\u00a9s met een Harry Potter-thema.",
                 "region": "Tokyo"
             },
             "Akihabara Station": {
@@ -108,7 +108,7 @@
                     135.4988014
                 ],
                 "icon": "building",
-                "info": "Amerika-mura is een bruisende wijk in Osaka vol vintagewinkels, straatkunst, cafés en jonge mode.",
+                "info": "Amerika-mura is een bruisende wijk in Osaka vol vintagewinkels, straatkunst, caf\u00c3\u00a9s en jonge mode.",
                 "region": "Osaka"
             },
             "Ao-shima Park": {
@@ -118,8 +118,7 @@
                 ],
                 "icon": "paw",
                 "info": "Ao-shima Park is een rustig groen gebied bij Tottori, geschikt voor een ontspannen wandeling in de natuur.",
-                "region": "Totteri",
-                "website": "http://www.monkeypark.jp/"
+                "region": "Totteri"
             },
             "Arashiyama Bamboo Forest": {
                 "coordinates": [
@@ -138,7 +137,7 @@
                 "icon": "paw",
                 "info": "In dit bergpark leven Japanse makaken vrij rond. Vanaf de top heb je bovendien een weids uitzicht over Kyoto.",
                 "region": "Kyoto",
-                "website": "http://www.monkeypark.jp/"
+                "website": "https://www.monkeypark.jp/"
             },
             "Canoe Rental": {
                 "coordinates": [
@@ -165,7 +164,8 @@
                 ],
                 "icon": "torii-gate",
                 "info": "De Chureito-pagode biedt een iconisch uitzicht waarin de vijf verdiepingen tellende pagode en de Fuji samenkomen.",
-                "region": "Kawaguchiko"
+                "region": "Kawaguchiko",
+                "price": "free"
             },
             "Cooking Sun Machiya Studio": {
                 "coordinates": [
@@ -173,7 +173,7 @@
                     135.7543491417896
                 ],
                 "icon": "utensils",
-                "info": "Volg een praktische Japanse kookles in een traditioneel stadshuis en leer lokale gerechten en ingrediënten kennen.",
+                "info": "Volg een praktische Japanse kookles in een traditioneel stadshuis en leer lokale gerechten en ingredi\u00c3\u00abnten kennen.",
                 "region": "Kyoto"
             },
             "Cycling tour": {
@@ -208,11 +208,11 @@
                     35.62676309686361,
                     139.88508862660316
                 ],
-                "info": "Tokyo DisneySea is een fantasierijk attractiepark rond maritieme werelden, met unieke attracties, decors en shows.",
-                "region": "Tokyo",
                 "icon": "ticket",
-                "website": "https://www.tokyodisneyresort.jp/en/tds.html",
-                "price": "9900 p.p."
+                "info": "Tokyo DisneySea is een fantasierijk attractiepark rond maritieme werelden, met unieke attracties, decors en shows.",
+                "price": "9900 p.p.",
+                "region": "Tokyo",
+                "website": "https://www.tokyodisneyresort.jp/en/tds.html"
             },
             "Dotonbori": {
                 "coordinates": [
@@ -265,9 +265,9 @@
                     36.24875135595904,
                     137.63803943983459
                 ],
-                "region": "Takayama",
                 "icon": "tree",
                 "info": "Kamikochi is een waar paradijs voor hike- en natuurliefhebbers. De vallei is onderdeel van het Chubu Sangaku National Park, gelegen in de Japanse Alpen.",
+                "region": "Takayama",
                 "website": "https://www.travelalut.com/japan/kamikochi/"
             },
             "Kasteel Himeji": {
@@ -277,9 +277,9 @@
                 ],
                 "icon": "landmark",
                 "info": "Kasteel Himeji is Japans grootste en best bewaarde feodale kasteel, herkenbaar aan zijn elegante witte buitenkant.",
+                "price": "2600 p.p.",
                 "region": "Himeji",
-                "website": "https://www.himejicastle.jp/en/",
-                "price": "2600 p.p."
+                "website": "https://www.himejicastle.jp/en/"
             },
             "Kasteel Hiroshima": {
                 "coordinates": [
@@ -297,7 +297,8 @@
                 ],
                 "icon": "landmark",
                 "info": "Kasteel Kanazawa was de zetel van de machtige Maeda-clan en toont gerestaureerde poorten, torens en traditionele bouwkunst.",
-                "region": "Kanazawa"
+                "region": "Kanazawa",
+                "website": "https://shiro-niwa.pref.ishikawa.lg.jp/kanazawa-castle/en/"
             },
             "Kasteel Matsumoto": {
                 "coordinates": [
@@ -306,7 +307,9 @@
                 ],
                 "icon": "torii-gate",
                 "info": "Kasteel Matsumoto is een originele zwarte feodale burcht met houten interieurs en uitzicht over de Japanse Alpen.",
-                "region": "Matsumoto"
+                "region": "Matsumoto",
+                "website": "https://www.matsumoto-castle.jp/eng/info",
+                "price": "1200-2600 p.p."
             },
             "Keizerlijke Villa Katsura": {
                 "coordinates": [
@@ -315,7 +318,8 @@
                 ],
                 "icon": "landmark",
                 "info": "De Keizerlijke Villa Katsura is een meesterwerk van Japanse architectuur en tuinkunst met verfijnde paviljoens en theehuizen.",
-                "region": "Kyoto"
+                "region": "Kyoto",
+                "website": "https://kyoto-gosho.kunaicho.go.jp/en/katsura-rikyu/visit"
             },
             "Kenroku-en": {
                 "coordinates": [
@@ -423,7 +427,7 @@
                     135.5051186623528
                 ],
                 "icon": "city",
-                "info": "Nakazaki-cho is een sfeervolle wijk met oude houten huizen, onafhankelijke cafés, galerieën en vintagewinkels.",
+                "info": "Nakazaki-cho is een sfeervolle wijk met oude houten huizen, onafhankelijke caf\u00c3\u00a9s, galerie\u00c3\u00abn en vintagewinkels.",
                 "region": "Osaka"
             },
             "Namba Parks": {
@@ -499,6 +503,17 @@
                 "info": "Shitenno-ji geldt als een van Japans oudste boeddhistische tempels en heeft een klassieke symmetrische indeling.",
                 "region": "Osaka"
             },
+            "Shibuya Sky": {
+                "coordinates": [
+                    35.65868058982238,
+                    139.7019526112603
+                ],
+                "icon": "binoculars",
+                "info": "Shibuya Sky is een openluchtobservatiedek met spectaculair uitzicht over het beroemde kruispunt en de skyline van Tokio.",
+                "price": "2700-3400 p.p.",
+                "region": "Tokyo",
+                "website": "https://www.shibuya-scramble-square.com/sky/"
+            },
             "Shinsekai": {
                 "coordinates": [
                     34.6520901,
@@ -508,16 +523,13 @@
                 "info": "Shinsekai is een kleurrijke retrowijk rond de Tsutenkaku-toren, bekend om lichtreclames en kushikatsu-restaurants.",
                 "region": "Osaka"
             },
-            "Shibuya Sky": {
+            "Sumida Aquarium": {
                 "coordinates": [
-                    35.65868058982238,
-                    139.7019526112603
+                    35.70995050229457,
+                    139.80958499224465
                 ],
-                "icon": "binoculars",
-                "info": "Shibuya Sky is een openluchtobservatiedek met spectaculair uitzicht over het beroemde kruispunt en de skyline van Tokio.",
-                "region": "Tokyo",
-                "website": "https://www.shibuya-scramble-square.com/sky/",
-                "price": "2700-3400 p.p."
+                "icon": "fish",
+                "region": "Tokyo"
             },
             "Takayama Sky Park": {
                 "coordinates": [
@@ -551,9 +563,9 @@
                     35.74521780364664,
                     139.64610162660574
                 ],
+                "icon": "hat-wizard",
                 "info": "Deze studiotour toont authentieke filmsets, kostuums en rekwisieten uit de Harry Potter-films in een meeslepende rondgang.",
-                "region": "Tokyo",
-                "icon": "hat-wizard"
+                "region": "Tokyo"
             },
             "Tokyo Skytree": {
                 "coordinates": [
@@ -562,9 +574,9 @@
                 ],
                 "icon": "binoculars",
                 "info": "Tokyo Skytree is een 634 meter hoge zendmast met twee observatieniveaus en een indrukwekkend uitzicht over de stad.",
+                "price": "1100-4400 p.p.",
                 "region": "Tokyo",
-                "website": "https://www.tokyo-skytree.jp/en/",
-                "price": "1100-4400 p.p."
+                "website": "https://www.tokyo-skytree.jp/en/"
             },
             "Tokyo Tower": {
                 "coordinates": [
@@ -573,9 +585,9 @@
                 ],
                 "icon": "binoculars",
                 "info": "Tokyo Tower is een iconische rood-witte communicatietoren met observatiedekken en een klassiek uitzicht over Tokio.",
+                "price": "3300 p.p.",
                 "region": "Tokyo",
-                "website": "https://en.tokyotower.co.jp/",
-                "price": "3300 p.p."
+                "website": "https://en.tokyotower.co.jp/"
             },
             "Tokyo tour": {
                 "coordinates": [
@@ -583,7 +595,7 @@
                     139.7741862514689
                 ],
                 "icon": "route",
-                "info": "Een begeleide tour biedt een efficiënte kennismaking met de uiteenlopende wijken, bezienswaardigheden en cultuur van Tokio.",
+                "info": "Een begeleide tour biedt een effici\u00c3\u00abnte kennismaking met de uiteenlopende wijken, bezienswaardigheden en cultuur van Tokio.",
                 "region": "Tokyo"
             },
             "Ueno Park": {
@@ -619,7 +631,7 @@
                     134.2273108
                 ],
                 "icon": "landmark",
-                "info": "Het Watanabe Museum bezit een uitgebreide privécollectie samoeraiharnassen, zwaarden en traditionele Japanse kunst.",
+                "info": "Het Watanabe Museum bezit een uitgebreide priv\u00c3\u00a9collectie samoeraiharnassen, zwaarden en traditionele Japanse kunst.",
                 "region": "Tottori"
             },
             "Zandduinen": {
