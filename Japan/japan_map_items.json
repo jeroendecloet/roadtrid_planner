@@ -189,6 +189,13 @@
                 "icon": "microchip",
                 "region": "Osaka"
             },
+            "Disney Sea": {
+                "coordinates": [
+                    35.62676309686361,
+                    139.88508862660316
+                ],
+                "region": "Tokyo"
+            },
             "Dotonbori": {
                 "coordinates": [
                     34.6690306,
@@ -230,9 +237,20 @@
                 "icon": "tree",
                 "region": "Kanazawa"
             },
+            "Kamikochi": {
+                "coordinates": [
+                    36.24875135595904,
+                    137.63803943983459
+                ],
+                "region": "Takayama",
+                "icon": "tree",
+                "info": "Kamikochi is een waar paradijs voor hike- en natuurliefhebbers. De vallei is onderdeel van het Chubu Sangaku National Park, gelegen in de Japanse Alpen.",
+                "website": "https://www.travelalut.com/japan/kamikochi/"
+            },
             "Kasteel Himeji": {
                 "coordinates": [
-                    34.83947539014147, 134.69393688425774
+                    34.83947539014147,
+                    134.69393688425774
                 ],
                 "icon": "landmark",
                 "region": "Himeji"
@@ -468,6 +486,13 @@
                     139.79667531211007
                 ],
                 "icon": "torii-gate",
+                "region": "Tokyo"
+            },
+            "The Making of Harry Potter - Warner Bros. Studio Tour": {
+                "coordinates": [
+                    35.74521780364664,
+                    139.64610162660574
+                ],
                 "region": "Tokyo"
             },
             "Tokyo Skytree": {

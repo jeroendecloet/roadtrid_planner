@@ -53,9 +53,10 @@ def add_region_controls(map_maker, regions):
         for name in regions
     )
     panel = f"""
-    <div class="roadtrip-region-panel" aria-label="Map regions">
-      <strong>Focus region</strong><div>{buttons}</div>
-    </div>
+    <details class="roadtrip-region-panel" open>
+      <summary>Focus region</summary>
+      <div class="roadtrip-region-buttons">{buttons}</div>
+    </details>
     """
     styles = """
     <style>
@@ -65,8 +66,11 @@ def add_region_controls(map_maker, regions):
         border-radius: 6px; background: rgba(255,255,255,.94);
         box-shadow: 0 1px 6px rgba(0,0,0,.3); font: 14px/1.4 sans-serif;
       }
-      .roadtrip-region-panel strong { display: block; margin-bottom: 5px; }
-      .roadtrip-region-panel div { display: flex; flex-wrap: wrap; gap: 5px; }
+      .roadtrip-region-panel summary {
+        cursor: pointer; font-weight: bold; user-select: none;
+      }
+      .roadtrip-region-panel[open] summary { margin-bottom: 5px; }
+      .roadtrip-region-buttons { display: flex; flex-wrap: wrap; gap: 5px; }
       .roadtrip-region-panel button {
         border: 1px solid #777; border-radius: 4px; padding: 5px 9px;
         background: white; color: #222; cursor: pointer;
@@ -75,7 +79,6 @@ def add_region_controls(map_maker, regions):
       .roadtrip-region-panel button:focus { background: #e8f1fb; }
       @media (max-width: 600px) {
         .roadtrip-region-panel { top: 8px; left: 46px; font-size: 13px; }
-        .roadtrip-region-panel strong { display: none; }
       }
     </style>
     """
