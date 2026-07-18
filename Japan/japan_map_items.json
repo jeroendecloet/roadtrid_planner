@@ -4,7 +4,8 @@
             36.14173293651191,
             137.25275265386506
         ],
-        "country": "japan"
+        "country": "japan",
+        "price_unit": "yen"
     },
     "markers": {
         "food": {},
@@ -80,6 +81,7 @@
                     135.5140068
                 ],
                 "icon": "building",
+                "info": "Abeno Harukas is een opvallende wolkenkrabber in Osaka met een observatiedek, winkels, een museum en een hotel.",
                 "region": "Osaka"
             },
             "Akasaka Station": {
@@ -88,7 +90,7 @@
                     139.736388
                 ],
                 "icon": "train",
-                "info": "Harry Potter station",
+                "info": "Station Akasaka ligt in een levendige wijk van Tokio en biedt gemakkelijke toegang tot winkels en cafés met een Harry Potter-thema.",
                 "region": "Tokyo"
             },
             "Akihabara Station": {
@@ -97,6 +99,7 @@
                     139.7738947
                 ],
                 "icon": "train",
+                "info": "Station Akihabara is de toegangspoort tot Tokio's beroemde wijk voor elektronica, anime, manga en games.",
                 "region": "Tokyo"
             },
             "Amerika-mura": {
@@ -105,6 +108,7 @@
                     135.4988014
                 ],
                 "icon": "building",
+                "info": "Amerika-mura is een bruisende wijk in Osaka vol vintagewinkels, straatkunst, cafés en jonge mode.",
                 "region": "Osaka"
             },
             "Ao-shima Park": {
@@ -113,6 +117,7 @@
                     134.1547958554361
                 ],
                 "icon": "paw",
+                "info": "Ao-shima Park is een rustig groen gebied bij Tottori, geschikt voor een ontspannen wandeling in de natuur.",
                 "region": "Totteri",
                 "website": "http://www.monkeypark.jp/"
             },
@@ -122,6 +127,7 @@
                     135.70957199775316
                 ],
                 "icon": "tree",
+                "info": "Het bamboebos van Arashiyama is een sfeervol wandelpad tussen metershoge, zacht ruisende bamboestengels.",
                 "region": "Kyoto"
             },
             "Arashiyama Monkey Park": {
@@ -130,6 +136,7 @@
                     135.70957199775316
                 ],
                 "icon": "paw",
+                "info": "In dit bergpark leven Japanse makaken vrij rond. Vanaf de top heb je bovendien een weids uitzicht over Kyoto.",
                 "region": "Kyoto",
                 "website": "http://www.monkeypark.jp/"
             },
@@ -139,6 +146,7 @@
                     138.7507294006231
                 ],
                 "icon": "ship",
+                "info": "Verken het Kawaguchimeer per kano en geniet bij helder weer vanaf het water van het uitzicht op de Fuji.",
                 "region": "Kawaguchiko"
             },
             "Chidorigafuchi Park": {
@@ -147,6 +155,7 @@
                     139.7449236
                 ],
                 "icon": "tree",
+                "info": "Chidorigafuchi is een schilderachtig wandelpad langs de slotgracht van het Keizerlijk Paleis, vooral geliefd tijdens de kersenbloesem.",
                 "region": "Tokyo"
             },
             "Chureito Pagoda": {
@@ -155,6 +164,7 @@
                     138.8011924758793
                 ],
                 "icon": "torii-gate",
+                "info": "De Chureito-pagode biedt een iconisch uitzicht waarin de vijf verdiepingen tellende pagode en de Fuji samenkomen.",
                 "region": "Kawaguchiko"
             },
             "Cooking Sun Machiya Studio": {
@@ -163,6 +173,7 @@
                     135.7543491417896
                 ],
                 "icon": "utensils",
+                "info": "Volg een praktische Japanse kookles in een traditioneel stadshuis en leer lokale gerechten en ingrediënten kennen.",
                 "region": "Kyoto"
             },
             "Cycling tour": {
@@ -171,6 +182,7 @@
                     135.75420470452693
                 ],
                 "icon": "bicycle",
+                "info": "Een fietstocht is een actieve manier om Kyoto's historische wijken, rustige straten en rivieroevers te ontdekken.",
                 "region": "Kyoto"
             },
             "Daio Wasabi Farm": {
@@ -179,6 +191,7 @@
                     137.90851867126435
                 ],
                 "icon": "bowl-rice",
+                "info": "Daio Wasabi Farm is een van Japans grootste wasabiboerderijen, met wandelpaden langs velden die door helder bronwater worden gevoed.",
                 "region": "Matsumoto"
             },
             "Den Den Town": {
@@ -187,6 +200,7 @@
                     135.5058245
                 ],
                 "icon": "microchip",
+                "info": "Den Den Town is Osaka's centrum voor elektronica, anime, manga, games en verzamelobjecten.",
                 "region": "Osaka"
             },
             "Disney Sea": {
@@ -194,7 +208,11 @@
                     35.62676309686361,
                     139.88508862660316
                 ],
-                "region": "Tokyo"
+                "info": "Tokyo DisneySea is een fantasierijk attractiepark rond maritieme werelden, met unieke attracties, decors en shows.",
+                "region": "Tokyo",
+                "icon": "ticket",
+                "website": "https://www.tokyodisneyresort.jp/en/tds.html",
+                "price": "9900 p.p."
             },
             "Dotonbori": {
                 "coordinates": [
@@ -202,6 +220,7 @@
                     135.5015715
                 ],
                 "icon": "utensils",
+                "info": "Dotonbori is Osaka's levendige eet- en uitgaanswijk, bekend om neonreclames en lokale gerechten als takoyaki en okonomiyaki.",
                 "region": "Osaka"
             },
             "Fushimi Inari-taisha": {
@@ -210,6 +229,7 @@
                     135.7797101
                 ],
                 "icon": "torii-gate",
+                "info": "Fushimi Inari Taisha is beroemd om de duizenden rode torii-poorten die wandelpaden over de heilige berg vormen.",
                 "region": "Kyoto"
             },
             "Genbaku Dome": {
@@ -218,6 +238,7 @@
                     132.4535245
                 ],
                 "icon": "monument",
+                "info": "De Atoombomkoepel is een aangrijpend overblijfsel van de bombardering op Hiroshima en staat symbool voor vrede.",
                 "region": "Hiroshima"
             },
             "Gion regio": {
@@ -226,6 +247,7 @@
                     135.77661090337355
                 ],
                 "icon": "masks-theater",
+                "info": "Gion is Kyoto's bekendste historische wijk, met houten machiya, traditionele theehuizen en soms passerende geiko en maiko.",
                 "region": "Kyoto",
                 "website": "http://www.monkeypark.jp/"
             },
@@ -235,6 +257,7 @@
                     136.6573333842959
                 ],
                 "icon": "tree",
+                "info": "Gyokusen'inmaru is een zorgvuldig gereconstrueerde feodale tuin met vijvers, bruggen en fraaie uitzichten bij kasteel Kanazawa.",
                 "region": "Kanazawa"
             },
             "Kamikochi": {
@@ -253,6 +276,7 @@
                     134.69393688425774
                 ],
                 "icon": "landmark",
+                "info": "Kasteel Himeji is Japans grootste en best bewaarde feodale kasteel, herkenbaar aan zijn elegante witte buitenkant.",
                 "region": "Himeji"
             },
             "Kasteel Hiroshima": {
@@ -261,6 +285,7 @@
                     132.4595399
                 ],
                 "icon": "landmark",
+                "info": "Kasteel Hiroshima is een reconstructie van de samoeraiburcht en huisvest een museum over de lokale geschiedenis.",
                 "region": "Hiroshima"
             },
             "Kasteel Kanazawa": {
@@ -269,6 +294,7 @@
                     136.65959766895253
                 ],
                 "icon": "landmark",
+                "info": "Kasteel Kanazawa was de zetel van de machtige Maeda-clan en toont gerestaureerde poorten, torens en traditionele bouwkunst.",
                 "region": "Kanazawa"
             },
             "Kasteel Matsumoto": {
@@ -277,6 +303,7 @@
                     137.96889958428835
                 ],
                 "icon": "torii-gate",
+                "info": "Kasteel Matsumoto is een originele zwarte feodale burcht met houten interieurs en uitzicht over de Japanse Alpen.",
                 "region": "Matsumoto"
             },
             "Keizerlijke Villa Katsura": {
@@ -285,6 +312,7 @@
                     135.70957199775316
                 ],
                 "icon": "landmark",
+                "info": "De Keizerlijke Villa Katsura is een meesterwerk van Japanse architectuur en tuinkunst met verfijnde paviljoens en theehuizen.",
                 "region": "Kyoto"
             },
             "Kenroku-en": {
@@ -293,6 +321,7 @@
                     136.66276951498293
                 ],
                 "icon": "tree",
+                "info": "Kenroku-en behoort tot Japans beroemdste landschapstuinen en combineert vijvers, bruggen, theehuizen en seizoensbeplanting.",
                 "region": "Kanazawa"
             },
             "Kinkaku-ji": {
@@ -301,6 +330,7 @@
                     135.7295373
                 ],
                 "icon": "torii-gate",
+                "info": "Kinkaku-ji is het beroemde Gouden Paviljoen van Kyoto, waarvan de vergulde verdiepingen weerspiegelen in de omliggende vijver.",
                 "region": "Kyoto"
             },
             "Kokodera tuinen": {
@@ -309,6 +339,7 @@
                     135.68371029775338
                 ],
                 "icon": "tree",
+                "info": "De tuinen van Kokedera zijn bedekt met een weelderig tapijt van vele mossoorten en vereisen doorgaans vooraf reserveren.",
                 "region": "Kyoto"
             },
             "Kokyo kasteel": {
@@ -317,6 +348,7 @@
                     139.7506859
                 ],
                 "icon": "landmark",
+                "info": "Het Keizerlijk Paleis staat op de plek van het voormalige kasteel Edo en wordt omringd door tuinen, muren en grachten.",
                 "region": "Tokyo"
             },
             "Kuromon Ichiba Market": {
@@ -325,6 +357,7 @@
                     135.5070407
                 ],
                 "icon": "store",
+                "info": "Kuromon Ichiba is een levendige overdekte markt waar je verse vis, fruit en tal van lokale hapjes kunt proeven.",
                 "region": "Osaka"
             },
             "Magome - Tsumago wandelroute": {
@@ -333,6 +366,7 @@
                     137.566704710155
                 ],
                 "icon": "route",
+                "info": "Deze historische wandelroute volgt de oude Nakasendo door bossen en gehuchten tussen de poststeden Magome en Tsumago.",
                 "region": "Matsumoto"
             },
             "Mitaki-dera": {
@@ -341,6 +375,7 @@
                     132.4384108
                 ],
                 "icon": "torii-gate",
+                "info": "Mitaki-dera is een rustige boeddhistische tempel in een beboste vallei met watervallen, beelden en vredesmonumenten.",
                 "region": "Hiroshima"
             },
             "Miyajima eiland": {
@@ -349,6 +384,7 @@
                     132.31700960053874
                 ],
                 "icon": "tree",
+                "info": "Miyajima is beroemd om het Itsukushima-heiligdom en de rode torii-poort die bij vloed in zee lijkt te staan.",
                 "region": "Hiroshima"
             },
             "Mt. Fuji Panoramic Ropeway": {
@@ -357,6 +393,7 @@
                     138.77207876892862
                 ],
                 "icon": "binoculars",
+                "info": "Deze kabelbaan stijgt vanaf het Kawaguchimeer naar een uitkijkpunt met panorama over het meer en de Fuji.",
                 "region": "Kawaguchiko"
             },
             "Nagamachi Samurai District": {
@@ -365,6 +402,7 @@
                     136.65102686638448
                 ],
                 "icon": "user-ninja",
+                "info": "Nagamachi bewaart de smalle straten, lemen muren en voormalige samoeraiwoningen uit het feodale Kanazawa.",
                 "region": "Kanazawa"
             },
             "Nakano-shima": {
@@ -373,6 +411,7 @@
                     135.49786241694042
                 ],
                 "icon": "tree",
+                "info": "Nakanoshima is een groen riviereiland in centraal Osaka met parken, musea en elegante openbare gebouwen.",
                 "region": "Osaka"
             },
             "Nakazaki-cho": {
@@ -381,6 +420,7 @@
                     135.5051186623528
                 ],
                 "icon": "city",
+                "info": "Nakazaki-cho is een sfeervolle wijk met oude houten huizen, onafhankelijke cafés, galerieën en vintagewinkels.",
                 "region": "Osaka"
             },
             "Namba Parks": {
@@ -389,6 +429,7 @@
                     135.5020843
                 ],
                 "icon": "bag-shopping",
+                "info": "Namba Parks is een winkel- en amusementscomplex dat opvalt door zijn terrasvormige, groene daktuinen.",
                 "region": "Osaka"
             },
             "Omi-cho markt": {
@@ -397,6 +438,7 @@
                     136.6558972842961
                 ],
                 "icon": "store",
+                "info": "De Omicho-markt is Kanazawa's historische versmarkt, bekend om vis uit de Japanse Zee en regionale specialiteiten.",
                 "region": "Kanazawa"
             },
             "Orizuru Tower": {
@@ -405,6 +447,7 @@
                     132.4546856
                 ],
                 "icon": "binoculars",
+                "info": "Orizuru Tower biedt naast de Atoombomkoepel een panoramisch dakterras en tentoonstellingen over Hiroshima en vrede.",
                 "region": "Hiroshima"
             },
             "Osaka Castle": {
@@ -413,6 +456,7 @@
                     135.5258555
                 ],
                 "icon": "landmark",
+                "info": "Kasteel Osaka is een markante gereconstrueerde burcht met een historisch museum, omringd door grachten en een groot park.",
                 "region": "Osaka"
             },
             "Peace Memorial Park": {
@@ -421,6 +465,7 @@
                     132.45219046890452
                 ],
                 "icon": "dove",
+                "info": "Het Vredesherdenkingspark herdenkt de slachtoffers van de atoombom en omvat een museum, cenotaaf en diverse monumenten.",
                 "region": "Hiroshima"
             },
             "Saiho-ji Kokodera tuinen": {
@@ -429,6 +474,7 @@
                     135.68372102658924
                 ],
                 "icon": "tree",
+                "info": "Saiho-ji, ook Kokedera genoemd, is een serene tempel met een uitzonderlijke mostuin rond een rustige vijver.",
                 "region": "Kyoto",
                 "website": "https://saihoji-kokedera.com/"
             },
@@ -438,6 +484,7 @@
                     132.46773142657636
                 ],
                 "icon": "tree",
+                "info": "Shukkeien is een historische landschapstuin met een centrale vijver, bruggen, theehuizen en miniatuurlandschappen.",
                 "region": "Hiroshima"
             },
             "Shi-Tenno-ji": {
@@ -446,6 +493,7 @@
                     135.6069417
                 ],
                 "icon": "torii-gate",
+                "info": "Shitenno-ji geldt als een van Japans oudste boeddhistische tempels en heeft een klassieke symmetrische indeling.",
                 "region": "Osaka"
             },
             "Shinsekai": {
@@ -454,6 +502,7 @@
                     135.5061908
                 ],
                 "icon": "city",
+                "info": "Shinsekai is een kleurrijke retrowijk rond de Tsutenkaku-toren, bekend om lichtreclames en kushikatsu-restaurants.",
                 "region": "Osaka"
             },
             "TShibuya Sky": {
@@ -462,6 +511,7 @@
                     139.7019526112603
                 ],
                 "icon": "binoculars",
+                "info": "Shibuya Sky is een openluchtobservatiedek met spectaculair uitzicht over het beroemde kruispunt en de skyline van Tokio.",
                 "region": "Tokyo"
             },
             "Takayama Sky Park": {
@@ -470,6 +520,7 @@
                     137.23967522661496
                 ],
                 "icon": "binoculars",
+                "info": "Takayama Sky Park is een rustig uitkijkpunt op een heuvel met zicht over de stad en de bergen van Hida.",
                 "region": "Takayama"
             },
             "Tea ceremony": {
@@ -478,6 +529,7 @@
                     136.6684598747007
                 ],
                 "icon": "mug-hot",
+                "info": "Tijdens een traditionele theeceremonie maak je kennis met de bereiding van matcha, etiquette en Japanse gastvrijheid.",
                 "region": "Kanazawa"
             },
             "Tempel Senso-ji": {
@@ -486,6 +538,7 @@
                     139.79667531211007
                 ],
                 "icon": "torii-gate",
+                "info": "Senso-ji is Tokio's oudste boeddhistische tempel en vormt met de Kaminarimon-poort het hart van Asakusa.",
                 "region": "Tokyo"
             },
             "The Making of Harry Potter - Warner Bros. Studio Tour": {
@@ -493,7 +546,9 @@
                     35.74521780364664,
                     139.64610162660574
                 ],
-                "region": "Tokyo"
+                "info": "Deze studiotour toont authentieke filmsets, kostuums en rekwisieten uit de Harry Potter-films in een meeslepende rondgang.",
+                "region": "Tokyo",
+                "icon": "hat-wizard"
             },
             "Tokyo Skytree": {
                 "coordinates": [
@@ -501,6 +556,7 @@
                     139.8109416362251
                 ],
                 "icon": "binoculars",
+                "info": "Tokyo Skytree is een 634 meter hoge zendmast met twee observatieniveaus en een indrukwekkend uitzicht over de stad.",
                 "region": "Tokyo"
             },
             "Tokyo Tower": {
@@ -509,6 +565,7 @@
                     139.745536
                 ],
                 "icon": "binoculars",
+                "info": "Tokyo Tower is een iconische rood-witte communicatietoren met observatiedekken en een klassiek uitzicht over Tokio.",
                 "region": "Tokyo"
             },
             "Tokyo tour": {
@@ -517,6 +574,7 @@
                     139.7741862514689
                 ],
                 "icon": "route",
+                "info": "Een begeleide tour biedt een efficiënte kennismaking met de uiteenlopende wijken, bezienswaardigheden en cultuur van Tokio.",
                 "region": "Tokyo"
             },
             "Ueno Park": {
@@ -525,6 +583,7 @@
                     139.7738278
                 ],
                 "icon": "tree",
+                "info": "Uenopark is een belangrijk cultuurpark met musea, tempels, een dierentuin en populaire lanen vol kersenbomen.",
                 "region": "Tokyo"
             },
             "Umeda Sky Building": {
@@ -533,6 +592,7 @@
                     135.4905349
                 ],
                 "icon": "binoculars",
+                "info": "Het Umeda Sky Building verbindt twee torens met een spectaculair observatiedek dat over de skyline van Osaka uitkijkt.",
                 "region": "Osaka"
             },
             "Uradome Coast Island Boat Pier": {
@@ -541,6 +601,7 @@
                     134.29783515543795
                 ],
                 "icon": "ship",
+                "info": "Vanaf deze pier varen boottochten langs de ruige Uradomekust met helder water, zeegrotten, kliffen en eilandjes.",
                 "region": "Tottori"
             },
             "Watanabe Museum Tottori": {
@@ -549,6 +610,7 @@
                     134.2273108
                 ],
                 "icon": "landmark",
+                "info": "Het Watanabe Museum bezit een uitgebreide privécollectie samoeraiharnassen, zwaarden en traditionele Japanse kunst.",
                 "region": "Tottori"
             },
             "Zandduinen": {
@@ -557,6 +619,7 @@
                     134.22887966099043
                 ],
                 "icon": "mountain-sun",
+                "info": "De zandduinen van Tottori vormen Japans grootste kustduinlandschap en bieden hoge zandhellingen met uitzicht op zee.",
                 "region": "Totteri"
             },
             "Zandmuseum": {
@@ -565,6 +628,7 @@
                     134.23837902660145
                 ],
                 "icon": "building-columns",
+                "info": "Het Zandmuseum toont monumentale, gedetailleerde sculpturen van zand in regelmatig wisselende internationale thema's.",
                 "region": "Totteri"
             }
         }
