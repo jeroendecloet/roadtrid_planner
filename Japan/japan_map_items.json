@@ -127,7 +127,8 @@
                 ],
                 "icon": "fish",
                 "info": "Kaiyukan is een van de grootste aquaria ter wereld, met indrukwekkende tanks en een diversiteit aan zeeleven.",
-                "region": "Osaka"
+                "region": "Osaka",
+                "website": "https://en-61698.site-translation.com/"
             },
             "Arashiyama Bamboo Forest": {
                 "coordinates": [
@@ -625,7 +626,9 @@
                 ],
                 "icon": "binoculars",
                 "info": "Het Umeda Sky Building verbindt twee torens met een spectaculair observatiedek dat over de skyline van Osaka uitkijkt.",
-                "region": "Osaka"
+                "region": "Osaka",
+                "price": "2000 p.p.",
+                "website": "https://www.skybldg.co.jp/en/"
             },
             "Uradome Coast Island Boat Pier": {
                 "coordinates": [
