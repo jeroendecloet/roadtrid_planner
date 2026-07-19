@@ -120,6 +120,15 @@
                 "info": "Ao-shima Park is een rustig groen gebied bij Tottori, geschikt voor een ontspannen wandeling in de natuur.",
                 "region": "Totteri"
             },
+            "Aquarium Kaiyukan": {
+                "coordinates": [
+                    34.65452699843348,
+                    135.42895376891002
+                ],
+                "icon": "fish",
+                "info": "Kaiyukan is een van de grootste aquaria ter wereld, met indrukwekkende tanks en een diversiteit aan zeeleven.",
+                "region": "Osaka"
+            },
             "Arashiyama Bamboo Forest": {
                 "coordinates": [
                     34.98402613388423,
